@@ -1,8 +1,7 @@
 # PedroBordini
-Minha apresentação
 # Olá, eu sou o Pedro Henrique! 👋
 
-Sou estudante de Engenharia de Software e estou construindo minha jornada no mundo do desenvolvimento. Adoro aprender novas tecnologias e resolver desafios lógicos.
+Sou estudante de **Engenharia de Software** e estou construindo minha jornada no mundo do desenvolvimento. Adoro aprender novas tecnologias e resolver desafios lógicos.
 
 ## 🚀 Sobre mim
 - 🎓 Cursando Engenharia de Software na UniCesumnar.
