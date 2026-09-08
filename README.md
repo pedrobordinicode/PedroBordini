@@ -9,7 +9,7 @@ Sou estudante de **Engenharia de Software** e estou construindo minha jornada no
 - 🌱 Atualmente estou aprimorando meus conhecimentos em Machine Learning e IA, Python e JavaScript.
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** HTML, CSS, JavaScript, Python
+- **Linguagens:** HTML, CSS, C, C++, Python
 - **Ferramentas:** VS Code, Git, GitHub
 
 ## 📫 Como me encontrar
