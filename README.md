@@ -14,4 +14,4 @@ Sou estudante de **Engenharia de Software** e estou construindo minha jornada no
 
 ## 📫 Como me encontrar
 - 💼 LinkedIn: https://www.linkedin.com/in/pedro-henrique-bordini-giannasi-3733b4417/
-- 📧 E-mail: pedrobordini15@gmail.com
+- 📧 E-mail: pedrobordini88@gmail.com
